@@ -1,0 +1,70 @@
+---
+content_type: page
+description: Video, learning objectives, discussion questions, and references on fairness
+  criteria.
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
+parent_title: 'Module 3: Pedagogical Framework for Addressing Ethical Challenges '
+parent_type: SupplementalResourceSection
+parent_uid: 7eac5c4b-32a0-928c-eec9-3df651769dd0
+title: Fairness Criteria
+uid: 1c0498f4-4dca-ffcb-365a-4a06ad7bbeb4
+---
+
+{{< resource b27a4187-a36c-d5d8-a748-30e44b38730b >}}
+
+{{% resource_link ecb246a7-a9dc-4bf1-4ad8-f81619f60689 "Fairness Criteria slides (PDF - 1.5MB)" %}}
+
+Learning Objectives
+-------------------
+
+*   Present the confusion matrix, including definitions for true negatives, true positives, false negatives, and false positives.
+*   Discuss how to choose between different fairness criteria including demographic parity, equalized odds, and equalized opportunity.
+
+Content
+-------
+
+### Confusion matrix
+
+In the case of a binary classification (for example, whether or not to hire someone), you can categorize values in four categories. TP = true positive (correctly classified as positive). TN = true negative (correctly classified as negative). FP = false positive (incorrectly classified as positive). FN = false negative (incorrectly classified as negative).
+
+{{< resource 0c7e28dc-ce51-9751-84a1-a8a75cca039a >}}
+
+### Demographic parity
+
+The outcome is independent of the protected attribute. For example, the probability of being hired is independent of gender. Demographic parity almost always cannot be implemented if individuals are members of multiple protected groups because you may not be able to impose the equal probabilities across all groups. Demographic parity can also be fair at a group level, but unfair at an individual level. For example, if qualifications are different across a protected attribute, imposing demographic parity may mean someone who is less qualified may get hired. Therefore, if a large number of unqualified male applicants is added to the applicant pool, the hiring of qualified female applicants will go down.
+
+### Equalized odds
+
+Equalizing the odds means matching the true positive rates and false positive rates for different values of the protected attribute. This means that we are only enforcing equality among individuals who reach similar outcomes. This algorithm is more challenging to implement, but achieves one of the highest levels of algorithmic fairness. For example, the probability for a qualified applicant being hired and the probability of an unqualified applicant not being hired should be the same across all protected attributes. As compared to demographic parity, if a large number of unqualified male applicants apply for the job, the hiring of qualified female applicants in other protected groups is not affected.
+
+### Equalized opportunity
+
+Equalized opportunity means matching the true positive rates for different values of the protected attribute. This is a less interventionist approach of equalizing the odds and may be more achievable. In the example of hiring, for qualified applicants, the algorithm would work exactly as the equalized odds algorithm. For unqualified applicants, the rates of not hiring would not be same across different values of the protected attributes. For example, unqualified men would not necessarily have the same rate of not being hired as unqualified women.
+
+Discussion Questions:
+---------------------
+
+*   What is "demographic parity"? What is an example where you would want to use it?
+*   How might the overall accuracy of your algorithm change when applying these different fairness metrics?
+*   How do equalized odds and equalized opportunity differ? What is an example of where you would want to use one but not the other?
+
+References
+----------
+
+Hardt, Moritz, Eric Price, and Nati Srebro. "Equality of opportunity in supervised learning." _Advances in Neural Information Processing Systems_. 2016.
+
+Kilbertus, Niki, et al. "Avoiding discrimination through causal reasoning." _Advances in Neural Information Processing Systems_. 2017.
+
+Wadsworth, Christina, Francesca Vera, and Chris Piech. "{{% resource_link "9d4a0081-7645-47e1-8715-c922b71902a3" "Achieving fairness through adversarial learning: an application to recidivism prediction" %}}." arXiv preprint arXiv:1807.00199 (2018).
+
+Pleiss, Geoff, et al. "On fairness and calibration." _Advances in Neural Information Processing Systems._ 2017.
+
+Verma, Sahil, and Julia Rubin. "Fairness definitions explained." _2018 IEEE/ACM International Workshop on Software Fairness (FairWare)_. IEEE, 2018.
+
+Contributions
+-------------
+
+Content presented by Mike Teodorescu (MIT/Boston College).
+
+This content was developed in collaboration with Lily Morse and Gerald Kane (Boston College) and Yazeed Awwad (MIT).

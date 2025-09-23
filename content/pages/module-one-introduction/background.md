@@ -1,0 +1,56 @@
+---
+content_type: page
+description: Video, learning objectives, discussion questions, and references on the
+  background of the course.
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
+parent_title: 'Module 1: Introduction to Ethics in Machine Learning'
+parent_type: SupplementalResourceSection
+parent_uid: 9e86cc48-2107-c660-2b49-d87f9ad5b58f
+title: Background
+uid: 7ae79e54-28df-63c2-7532-f44ff913ca8f
+---
+
+{{< resource 50b5f31a-232d-e805-07e2-e359a871df64 >}}
+
+{{% resource_link 2abe3297-32c6-d390-dec9-e90426080ab3 "Background slides (PDF - 4MB)" %}}
+
+Learning Objectives
+-------------------
+
+*   Present the motivation and outline for the course.
+*   Highlight the importance of ethics and fairness in machine learning.
+
+Content
+-------
+
+### How machine learning is being used in international development
+
+Machine learning is a branch of artificial intelligence where software learns how to perform a task based off of experience as opposed to being explicitly programmed. This technology has potential for large-scale impact across the global development field.
+
+*   In healthcare, advances in ML have allowed for rapid diagnostics of medical conditions, enabled community healthcare workers to collect patient data, and get novel insights into patterns of disease spread, significantly increasing access and quality of medical care available to those living in remote areas.
+*   In workforce development, ML algorithms have been used to reduce unemployment by pairing skilled individuals with jobs.
+*   In financial inclusion, several organizations are using ML to determine alternative credit-scores when traditional credit metrics may not be available. This has enabled individuals to access loans financing that was previously inaccessible.
+
+### Machine learning limitations
+
+Impacts of machine learning on society are still not well understood. Increased access to prebuilt, black-box solutions makes it easy for someone to implement solutions without considering potential pitfalls. Without careful attention, we run the risk of applying systems that are not only ineffective, but could also harm people by reinforcing existing patterns of social inequity. In developed countries, there is a growing amount of research in this area from communities such as AI Now and FAT\*.
+
+Discussion Questions
+--------------------
+
+*   How could you use ML in international development?
+    *   What are some examples of projects or organizations that you have seen working in ML for international development?
+*   What are some potential ethical challenges you have seen in ML applications?
+
+References
+----------
+
+"{{% resource_link "8562a78c-707a-45ea-8b15-edf78cb1f8ba" "ACM conference on Fairness, Accountability, and Transparency (ACM FAccT\*)" %}}." ACM FAccT\* Conference, 24 Oct 2019.
+
+"{{% resource_link "6afc5a96-aea7-4cc5-b010-6ac44751223e" "AI Now: A research institute examining the social implications of artificial intelligence" %}}." AI Now Institute.
+
+Contributions
+-------------
+
+Content created and presented by Amit Gandhi (MIT).

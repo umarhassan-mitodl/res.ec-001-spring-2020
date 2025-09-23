@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ]
+  ],
+  "legacy_uid": "7afcb28c-4374-ffed-8caa-3700d01f0bda",
+  "instructors": {
+    "content": [
+      "c9db1340-f58c-e074-cab0-75dd52ab737c",
+      "ce2a794a-3bd9-f266-68f3-776c1b372455",
+      "f70066aa-66a8-0850-327d-6b5afe151e21",
+      "56ed272d-1906-edde-638a-e8c0ed26ba19",
+      "ad5209cd-97e1-a0a9-b8d6-012b467f3976"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "43b20787-2b66-7ae4-a146-45a6228d85a5",
+    "website": "res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020"
+  },
+  "course_title": "Exploring Fairness in Machine Learning for International Development",
+  "hide_download": false,
+  "course_description": "In an effort to build the capacity of the students and faculty on the topics of bias and fairness in machine learning (ML) and appropriate use of ML, the {{% resource_link \"3a8040dd-5678-4e03-94e5-594dbc165154\" \"MIT CITE\" %}} team developed capacity-building activities and material. This material covers content through four modules that an be integrated into existing courses over a one to two week period.\n",
+  "department_numbers": [
+    "EC"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.EC-001",
+  "course_image_thumbnail": {
+    "content": "4de73060-1d46-d840-aa2a-ec8d0e3a28cf",
+    "website": "res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020"
+  },
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "site_uid": "0e9d1ce3-972e-4a81-a528-243e8d8a2e7d",
+  "site_short_id": "res.ec-001-spring-2020",
+  "site_url_path": "courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020",
+  "title": "Course Metadata"
+}
