@@ -22,7 +22,7 @@ uid: 3ee1ee69-1813-a435-6d18-22d90b24e11c
 
 ## Content
 
-The repository for this module can be found at {{% resource_link "55f4f90f-5466-4d8d-98fb-35fbe890f74a" "Github - ML Bias Fairness" %}}.
+The repository for this module can be found at [Github - ML Bias Fairness](https://github.com/heyaudace/ml-bias-fairness).
 
 ### Defining algorithmic/model bias
 
@@ -77,21 +77,21 @@ It is also important to compare the results of the models across multiple traini
 
 ## References
 
-Dua, D. and Graff, C. (2019). {{% resource_link "9c488cc5-d1fc-4457-aa34-d337cf474f83" "UCI Machine Learning Repository" %}}. Irvine, CA: University of California, School of Information and Computer Science.
+Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml). Irvine, CA: University of California, School of Information and Computer Science.
 
 Bishop, Christopher M. *Pattern Recognition and Machine Learning*. New York: Springer 2006. ISBN: 9780387310732.
 
-Hardt, Moritz. (2016, October 7). "{{% resource_link "93068136-370e-41d3-ba93-282e4b74c923" "Equality of opportunity in machine learning" %}}." *Google AI Blog*.
+Hardt, Moritz. (2016, October 7). "[Equality of opportunity in machine learning](https://ai.googleblog.com/2016/10/equality-of-opportunity-in-machine.html)." *Google AI Blog*.
 
-Zhong, Ziyuan. (2018, October 21). "{{% resource_link "19e3cae7-d096-4c80-a7da-3bbd940c3ae7" "A tutorial on fairness in machine learning" %}}." *Toward Data Science*.
+Zhong, Ziyuan. (2018, October 21). "[A tutorial on fairness in machine learning](https://medium.com/data-science/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)." *Toward Data Science*.
 
-Kun, Jeremy. (2015, October 19). "{{% resource_link "b19e67bf-679e-4304-839c-1f0b4d75fc53" "One definition of algorithmic fairness: statistical parity" %}}." 
+Kun, Jeremy. (2015, October 19). "[One definition of algorithmic fairness: statistical parity](https://jeremykun.com/2015/10/19/one-definition-of-algorithmic-fairness-statistical-parity/)." 
 
-Olteanu, Alex. (2018, January 3). "{{% resource_link "49cac5f2-b3e7-4838-9b22-dca08cf6cd11" "Tutorial: Learning curves for machine learning in Python" %}}." *DataQuest*.
+Olteanu, Alex. (2018, January 3). "[Tutorial: Learning curves for machine learning in Python](https://www.dataquest.io/blog/learning-curves-machine-learning/)." *DataQuest*.
 
-Garg, Sahaj, et al. 2018. "{{% resource_link "92ef0334-b46f-4c65-8e24-6257f8bac977" "Counterfactual fairness in text classification through robustness" %}}." arXiv preprint arXiv:1809.10610.
+Garg, Sahaj, et al. 2018. "[Counterfactual fairness in text classification through robustness](https://arxiv.org/abs/1809.10610)." arXiv preprint arXiv:1809.10610.
 
-Wikipedia contributors. (2019, September 6). "{{% resource_link "155164f3-8941-4544-b18e-3cc8e8bc3407" "Algorithmic bias" %}}." In *Wikipedia, The Free Encyclopedia*. 
+Wikipedia contributors. (2019, September 6). "[Algorithmic bias](https://en.wikipedia.org/w/index.php?title=Algorithmic_bias&oldid=914352968)." In *Wikipedia, The Free Encyclopedia*. 
 
 ## Contributions
 

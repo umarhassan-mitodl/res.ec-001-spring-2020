@@ -74,9 +74,9 @@ Discussion Questions
 References
 ----------
 
-"{{% resource_link "d460d31c-4cd5-4be1-9596-ce0ed99e2c81" "Meet Pulse – BBOXX’s pioneering predictive management platform for distributed energy businesses" %}}." _Bboxx_, 2019.
+"[Meet Pulse – BBOXX’s pioneering predictive management platform for distributed energy businesses](https://www.bboxx.com/news/launch-of-bboxx-pulse/)." _Bboxx_, 2019.
 
-Popescu, Adam. "{{% resource_link "9816acac-fdd9-44fd-8da7-3a7b87d647ed" "AI Helps Africa Bypass the Grid" %}}." _Bloomberg_, 11 June 2018. 
+Popescu, Adam. "[AI Helps Africa Bypass the Grid](https://www.bloomberg.com/news/articles/2018-06-11/ai-helps-africa-bypass-the-grid)." _Bloomberg_, 11 June 2018. 
 
 Contributions
 -------------
