@@ -2,6 +2,8 @@
 content_type: page
 description: Video, learning objectives, discussion questions, and references on protected
   attributes and the idea of "fairness through unawareness."
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 'Module 3: Pedagogical Framework for Addressing Ethical Challenges '

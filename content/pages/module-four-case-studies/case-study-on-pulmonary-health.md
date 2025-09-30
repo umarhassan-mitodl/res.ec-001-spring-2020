@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Video and description of a case study on pulmonary health.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 'Module 4: Case Studies with Data '

@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/4de730601d46d840aa2aec8d0e3a28cf_res-ec001s19-th.jpg
 file_size: 3976
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This resource explores how and why to apply ethics in machine learning.
     (Image by MIT OpenCourseWare.)

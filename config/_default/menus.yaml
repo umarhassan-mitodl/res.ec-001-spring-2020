@@ -1,3 +1,5 @@
+hide_download: true
+hide_download_original: null
 leftnav:
 - identifier: 9e86cc48-2107-c660-2b49-d87f9ad5b58f
   name: 'Module 1: Introduction to Ethics in Machine Learning'

@@ -2,6 +2,8 @@
 content_type: page
 description: Video, learning objectives, and key concepts on a case study of demographic
   bias in natural language processing
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 'Module 4: Case Studies with Data '

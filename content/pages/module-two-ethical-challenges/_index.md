@@ -2,6 +2,8 @@
 content_type: page
 description: 'Notes and videos for module two on examples of ethical challenges in
   machine learning. '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Module 2: Examples of Ethical Challenges in Machine Learning'
