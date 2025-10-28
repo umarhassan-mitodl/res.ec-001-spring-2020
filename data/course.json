@@ -31,8 +31,8 @@
     "website": "res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020"
   },
   "course_title": "Exploring Fairness in Machine Learning for International Development",
-  "hide_download": true,
-  "course_description": "In an effort to build the capacity of the students and faculty on the topics of bias and fairness in machine learning (ML) and appropriate use of ML, the [MIT CITE](https://d-lab.mit.edu/research/mit-d-lab-cite) team developed capacity-building activities and material. This material covers content through four modules that an be integrated into existing courses over a one to two week period.\n",
+  "hide_download": false,
+  "course_description": "In an effort to build the capacity of the students and faculty on the topics of bias and fairness in machine learning (ML) and appropriate use of ML, the {{% resource_link \"0f1d31d6-c4ba-4a55-b715-41614a483274\" \"MIT CITE\" %}} team developed capacity-building activities and material. This material covers content through four modules that an be integrated into existing courses over a one to two week period.\n",
   "department_numbers": [
     "EC"
   ],
@@ -42,7 +42,6 @@
     "content": "4de73060-1d46-d840-aa2a-ec8d0e3a28cf",
     "website": "res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos"
   ],
