@@ -56,7 +56,7 @@ Hardt, Moritz, Eric Price, and Nati Srebro. "Equality of opportunity in supervis
 
 Kilbertus, Niki, et al. "Avoiding discrimination through causal reasoning." _Advances in Neural Information Processing Systems_. 2017.
 
-Wadsworth, Christina, Francesca Vera, and Chris Piech. "[Achieving fairness through adversarial learning: an application to recidivism prediction](https://arxiv.org/abs/1807.00199)." arXiv preprint arXiv:1807.00199 (2018).
+Wadsworth, Christina, Francesca Vera, and Chris Piech. "{{% resource_link "8341b88b-815b-4a81-a535-c0fe83f05d18" "Achieving fairness through adversarial learning: an application to recidivism prediction" %}}." arXiv preprint arXiv:1807.00199 (2018).
 
 Pleiss, Geoff, et al. "On fairness and calibration." _Advances in Neural Information Processing Systems._ 2017.
 

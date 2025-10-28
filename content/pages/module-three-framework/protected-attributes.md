@@ -2,8 +2,6 @@
 content_type: page
 description: Video, learning objectives, discussion questions, and references on protected
   attributes and the idea of "fairness through unawareness."
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 'Module 3: Pedagogical Framework for Addressing Ethical Challenges '
@@ -34,9 +32,9 @@ Disparate treatment is when you are disproportionately favoring a particular pro
 
 ### Examples of relevant unfairness
 
-*   [Amazon example](https://fortune.com/2018/10/10/amazon-ai-recruitment-bias-women-sexist/): Amazon implemented a machine learning algorithm to screen resumes for hiring. Despite having gender as a predicted attribute, the algorithm discriminated against women. 
-*   [Recidivism example](https://www.technologyreview.com/s/612775/algorithms-criminal-justice-ai/): Machine learning is being used in the criminal justice system to look at recidivism, the risk of a criminal reoffending after being released. This system has been shown to be potentially discriminatory across race and gender. 
-*   [Facebook example](https://www.nytimes.com/2019/03/28/us/politics/facebook-housing-discrimination.html): Facebook was found to be discriminating by allowing advertisers to restrict who could see ads based on characteristics like race, religion, and national origin. 
+*   {{% resource_link "d6bcc3fd-4651-4a89-a5d9-9ec934ebdae9" "Amazon example" %}}: Amazon implemented a machine learning algorithm to screen resumes for hiring. Despite having gender as a predicted attribute, the algorithm discriminated against women. 
+*   {{% resource_link "565a3e93-83b8-4a4d-bd78-52748e35a96e" "Recidivism example" %}}: Machine learning is being used in the criminal justice system to look at recidivism, the risk of a criminal reoffending after being released. This system has been shown to be potentially discriminatory across race and gender. 
+*   {{% resource_link "24f32602-4c5c-411a-a010-39ef207a8f79" "Facebook example" %}}: Facebook was found to be discriminating by allowing advertisers to restrict who could see ads based on characteristics like race, religion, and national origin. 
 
 ### Protected attributes
 

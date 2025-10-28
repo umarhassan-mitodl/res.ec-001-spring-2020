@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/9d6be4384779f0f744a2b50d3ca6ca79_RES-EC-001-pulmonary1.png
 file_size: 21396
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

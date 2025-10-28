@@ -2,8 +2,6 @@
 content_type: page
 description: Video, learning objectives, discussion questions, and references on the
   background of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 'Module 1: Introduction to Ethics in Machine Learning'
@@ -48,9 +46,9 @@ Discussion Questions
 References
 ----------
 
-"[ACM conference on Fairness, Accountability, and Transparency (ACM FAccT\*)](https://fatconference.org/)." ACM FAccT\* Conference, 24 Oct 2019.
+"{{% resource_link "e4ea05ed-23de-45c2-a444-c9cd21bc74c0" "ACM conference on Fairness, Accountability, and Transparency (ACM FAccT\*)" %}}." ACM FAccT\* Conference, 24 Oct 2019.
 
-"[AI Now: A research institute examining the social implications of artificial intelligence](https://ainowinstitute.org/)." AI Now Institute.
+"{{% resource_link "53c0f535-8712-4f62-9df8-7cb4763eac3e" "AI Now: A research institute examining the social implications of artificial intelligence" %}}." AI Now Institute.
 
 Contributions
 -------------
