@@ -82,4 +82,4 @@ Paul, Amy, Craig Jolley, and Aubra Anthony. "Reflecting the Past, Shaping the Fu
 
 Content presented by Amit Gandhi (MIT).
 
-The guiding principles presented in this section were developed by Amy Paul, Craig Jolley, and Aubra Anthony of the Strategy & Research team within the Center for Digital Development at USAID. See their [USAID report (PDF - 4.7MB)](https://www.usaid.gov/sites/default/files/2022-05/AI-ML-in-Development.pdf).
+The guiding principles presented in this section were developed by Amy Paul, Craig Jolley, and Aubra Anthony of the Strategy & Research team within the Center for Digital Development at USAID. See their {{% resource_link "435d7683-85f6-44ae-b478-f1470ec89dfe" "USAID report (PDF - 4.7MB)" %}}.
